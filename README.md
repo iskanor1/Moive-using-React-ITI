@@ -231,7 +231,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [@yourusername](https://github.com/yourusername) - your.email@example.com
+Your Name - [@ibrahim](https://github.com/yourusername) - aboibrahim8654@gmail.com
 
 Project Link: [https://github.com/yourusername/escanorhub](https://github.com/yourusername/escanorhub)
 
